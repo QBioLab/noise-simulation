@@ -1,2 +1,2 @@
-# noise-simulation-ev1
+# noise-simulation
 matlab code for noise simulation by Prof. Huang
